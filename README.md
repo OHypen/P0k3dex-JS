@@ -11,7 +11,7 @@ ___________
 ### Visit the website: https://pokedexjs.surge.sh/
 ___________
 
-# ❤️ Me siga no Instagram - Follow me on Instagram:
+# ❤️ Follow me on Instagram:
 
 <a href="https://www.instagram.com/oluishe/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
